@@ -1,4 +1,4 @@
-package com.rainbond.javagradledemo;
+package com.goodrain.me.javagradledemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
